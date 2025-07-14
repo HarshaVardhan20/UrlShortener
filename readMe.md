@@ -82,3 +82,8 @@ A simple and efficient URL shortener built using **Node.js**, **Express**, and *
   ]
 }
 ```
+
+
+### Screenshots
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/3a969b47-06e4-453a-91de-a6455e470548" />
